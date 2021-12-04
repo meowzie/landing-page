@@ -104,7 +104,62 @@ button {
     border: #3882F6 4px solid;
     margin-bottom: 8px;
 }
-
 .boxes p {
     color: rgba(83, 83, 83, 0.938);
+}
+.three {
+    background-color: #E5E7EB;
+}
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    padding: 10% 19% 2% 19%;
+}
+.byline {
+    font-weight: 900;
+    text-align: right;
+    padding: 2% 20% 6% 20%;
+    font-size: 24px;
+}
+.four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c2a {
+    margin: 10% 0%;
+    display: flex;
+    background-color: #3882F6;
+    width: 70%;
+    height: 50%;
+    border-radius: 15px;
+    align-items: center;
+}
+.c2a-text {
+    flex: 3;
+    padding: 7%;
+}
+.c2a-regular {
+    font-size: 18px;
+    color: white;
+}
+.c2a-head {
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+.c2a-button {
+    padding: 7% 10%;
+}
+.c2a-button button {
+    border: 2px solid white;
+}
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.footer-text {
+    margin: 3%;
 }
